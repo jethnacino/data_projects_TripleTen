@@ -1,19 +1,17 @@
 🚧 PROJECT PAGE UNDER CONSTRUCTION 🚧
 
-# File Title: TITLE HERE
+# File Title: Manhattan Vacation Rental Market Analysis
 
-DESCRIPTION OF PROJECT SCOPE, ROLES, & RESPONSIBILITIES (USE AI)
-
-
-[<img src="URL OF IMAGE" alt="First Sheet of Project**">](URL OFDESTINATION)
+This was my first project in the TripleTen Business Intelligence Analytics Program. I utilized my knowledge of advanced spreadsheets to analyze Airbnb listings in Manhattan to help a client determine the best vacation rental investment.
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
-| 2 | [RAW DATA FILE HERE](URL HERE) | DESCRIPTION HERE |
+| 1 | [FINISHED FILE NAME HERE](URL HERE) | Downloadable pdf file of the project |
+| 2 |  | A pdf of the project rubric |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 5 | x | A .png file of the comment left by my project reviewer | 
 
 ### Table of Contents for README
 | Section Title | Description |
@@ -27,11 +25,25 @@ DESCRIPTION OF PROJECT SCOPE, ROLES, & RESPONSIBILITIES (USE AI)
 | Notes | List any special requests from the reviews or stakeholders unique to this project. |
 
 #### Description:
-- SOFTWARE, NUMBER OF PAGES/SHEETS HERE
-- DESCRIPTION OF WHAT’S INCLUDED/ANALYTICAL FORMATS HERE
+- 9 page spreadsheet
+- Includes organizational tabs, raw data, processed data, data analysis, pivot tables, and charts. 
 
 #### Process:
--IF RELEVANT, USE AI TO DESCRIBE THE PROCESS OF THE PROJECT. INCLUDE TOOLS/TECH USED.
+**Data Preparation:** Filtering techniques identified and cleaned inconsistencies in the Airbnb data, hiding irrelevant columns for focused analysis. Key functions like PROPER, TRIM, IF, ISNUMBER, FIND, ROUND, SUMIF, VLOOKUP, CHOOSE, and WEEKDAY were used for data cleaning.
+
+**Neighborhood Analysis:** A Pivot Table identified top-performing neighborhoods based on review frequency.
+
+**Property Size Analysis:** Optimal property sizes for each neighborhood were determined using a Pivot Table with conditional formatting.
+
+**Revenue Analysis:** Estimated annual revenue for the most attractive listings was calculated.
+
+**Additional Optional Analysis:** Pivot Tables were used to analyze occupancy rates by day, pricing based on superhost status, check-in ratings with doormen, and pricing by review ratings.
+
+**Data Visualization:** Clear charts were created to present findings.
+
+**Formatting and Organization:** The analysis was formatted for readability.
+
+**Documentation:** Organizational sheets were created, including an executive summary, table of contents, assumptions log, and change log.
 
 #### Data
 DESCRIPTION HERE:
