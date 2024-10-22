@@ -3,15 +3,16 @@
 # File Title: Manhattan Vacation Rental Market Analysis
 
 This was my first project in the TripleTen Business Intelligence Analytics Program. I utilized my knowledge of advanced spreadsheets to analyze Airbnb listings in Manhattan to help a client determine the best vacation rental investment. 
+The Project's google spreadsheet can be found [here](https://docs.google.com/spreadsheets/d/1y1mPXiusqGUf6wZ_k835M_hyCnjpSdbK2CoCB-CTA2M/edit?usp=sharing)
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [Manhattan Vacation Rental Market Analysis](https://github.com/jethnacino/data_projects_TripleTen/blob/main/Manhattan%20Vacation%20Rental%20Market%20Analysis/Manhattan%20Vacation%20Rental%20Analysis.pdf) | Downloadable pdf file of the project |
-| 2 |  | A pdf of the project rubric |
+| 2 | [Project Rubric](https://github.com/jethnacino/data_projects_TripleTen/blob/main/Manhattan%20Vacation%20Rental%20Market%20Analysis/Project_Rubric.pdf) | A pdf of the project rubric |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
-| 5 | x | A .png file of the comment left by my project reviewer | 
+| 4 | [Requirements.txt](https://github.com/jethnacino/data_projects_TripleTen/blob/main/Manhattan%20Vacation%20Rental%20Market%20Analysis/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 5 | [Review](https://github.com/jethnacino/data_projects_TripleTen/blob/main/Manhattan%20Vacation%20Rental%20Market%20Analysis/Review.PNG) | A .png file of the comment left by my project reviewer | 
 
 ### Table of Contents for README
 | Section Title | Description |
@@ -46,9 +47,11 @@ This was my first project in the TripleTen Business Intelligence Analytics Progr
 **Documentation:** Organizational sheets were created, including an executive summary, table of contents, assumptions log, and change log.
 
 #### Data
-DESCRIPTION HERE:
-- `'TABLE NAME HERE'`: DESCRIPTION HERE
-    - `'FIELD NAME'`: DESCRIPTION HERE
+The data was provided by TripleTen on a Google spreadsheet file:
+- 'nyc_airbnb_data.csv': each row corresponds to one listing on Airbnb in September 2022
+- 'data_dictionary': summary of field titles and its data type
+- 'listings': unique listings
+- 'calender': listings with upcoming availabilities and data-type data
 
 #### Assumptions:
 - Airbnb rentals are equivalent to the general short-term vacation rental market
