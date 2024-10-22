@@ -2,7 +2,7 @@
 
 # File Title: Zuber Case Study 
 
-This is a project I worked on in the TripleTen Business Intelligence Analytics Programs. It was an independent project designed to showcase what I have learned about SQL. This project is about analyzing the data from Zuber, a ride-sharing company, and find patterns to understand passenger preferences and the impact of external factors on rides. 
+This is a project I worked on in the TripleTen Business Intelligence Analytics Programs. It was an independent project designed to showcase what I have learned about SQL. This project is about analyzing the data from Zuber, a ride-sharing company, and find patterns to understand passenger preferences and the impact of external factors on rides. The project was conducted through TripleTen's website and structured via a given task and a space to input my SQL code to complete said task. 
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
