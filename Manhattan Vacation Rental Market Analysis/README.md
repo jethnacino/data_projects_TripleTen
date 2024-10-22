@@ -7,7 +7,7 @@ This was my first project in the TripleTen Business Intelligence Analytics Progr
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [FINISHED FILE NAME HERE](URL HERE) | Downloadable pdf file of the project |
+| 1 | [Manhattan Vacation Rental Market Analysis](https://github.com/jethnacino/data_projects_TripleTen/blob/main/Manhattan%20Vacation%20Rental%20Market%20Analysis/Manhattan%20Vacation%20Rental%20Analysis.pdf) | Downloadable pdf file of the project |
 | 2 |  | A pdf of the project rubric |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
