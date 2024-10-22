@@ -1,19 +1,15 @@
 🚧 PROJECT PAGE UNDER CONSTRUCTION 🚧
 
-# File Title: TITLE HERE
-
-DESCRIPTION OF PROJECT SCOPE, ROLES, & RESPONSIBILITIES (USE AI)
-
-
-[<img src="URL OF IMAGE" alt="First Sheet of Project**">](URL OFDESTINATION)
+# File Title: Shopify Analysis
+This is a project I worked on in the TripleTen Business Intelligence Analytics Programs. It was an independent project designed to showcase what I have learned about data visualization utilizing PowerBI. This project is about finding key factors that play into the success of a Shopify App.
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
-| 2 | [RAW DATA FILE HERE](URL HERE) | DESCRIPTION HERE |
+| 1 | [Shopify Analysis](https://github.com/jethnacino/data_projects_TripleTen/blob/main/Shopify%20App%20Analysis/Shopify%20Project.pdf) | The pdf of the project |
+| 2 | [RAW DATA FILE HERE](URL HERE) | Link to spreadsheet data given by TripleTen |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 4 | [Requirements.txt](https://github.com/jethnacino/data_projects_TripleTen/blob/main/Shopify%20App%20Analysis/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
 ### Table of Contents for README
 | Section Title | Description |
@@ -21,38 +17,22 @@ DESCRIPTION OF PROJECT SCOPE, ROLES, & RESPONSIBILITIES (USE AI)
 | Description | Describes the final product's purpose, software, format, and included visuals. |
 | Process | Describes the process, including tools or tech used. |
 | Data | Describes the data source, including files, tables, and fields. |
-| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | Findings | Insights learned from the data analysis. |
 | Recommendations | Recommended direction for the stakeholders based on final analysis. |
-| Notes | List any special requests from the reviews or stakeholders unique to this project. |
 
 #### Description:
-- SOFTWARE, NUMBER OF PAGES/SHEETS HERE
-- DESCRIPTION OF WHAT’S INCLUDED/ANALYTICAL FORMATS HERE
+- Power BI, 3 sheets
+- 3 different types of charts
 
 #### Process:
--IF RELEVANT, USE AI TO DESCRIBE THE PROCESS OF THE PROJECT. INCLUDE TOOLS/TECH USED.
+- Create a line chart that will answer 
 
 #### Data
 DESCRIPTION HERE:
 - `'TABLE NAME HERE'`: DESCRIPTION HERE
     - `'FIELD NAME'`: DESCRIPTION HERE
 
-#### Assumptions:
-- LIST ALL ASSUMPTIONS HERE (Use AI)
-
-
 #### Findings:
 -LIST KEY INSIGHTS HERE
 
-#### Recommendations/Results:
-- LIST ALL FUTURE RECS HERE
-
-[<img src="IMAGE CAPTURE URL HERE">](DESTINATION URL HERE)
-
-The video overview can be found <a href='INSERT VIDEO URL HERE' target=_blank><u>here</u>.</a>.
-DOCUMENT TYPE page can be found <a href='INSERT URL HERE' target=_blank><u>here</u>.</a>.
-
-#### Notes:
-LIST ANY NOTES (such as, if a draft page is a requirement)
 
