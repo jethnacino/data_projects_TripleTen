@@ -1,4 +1,4 @@
-# File Title: TITLE HERE
+# File Title: SuperStore Analysis
 This is a project I worked on in the TripleTen Business Intelligence Analytics Programs. It was an independent project designed to showcase what I have learned about data visualization utilizing Tableau. This project is about analyzing the data from SuperStore to review it's operations and increase its profitablity to avoid bankruptcy. 
 
 ### Table of Contents for Repository Artifacts
