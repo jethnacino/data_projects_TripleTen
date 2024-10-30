@@ -1,0 +1,5 @@
+# Required Steps and Elements for a Completed Project
+
+## Complete a restaurant analysis for Zomato:
+- Come up with several questions you want answered based off the analysis
+- Create a presentation 
