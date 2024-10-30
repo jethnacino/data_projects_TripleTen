@@ -1,16 +1,15 @@
 # File Title: Zomato Analysis
 
-This was my final project in the TripleTen Business Intelligence Analytics Program. I utilized everything I've learned from my months of studying as a Business Analyst and was given freedom to explore the given data how I pleased. I chose to use Power BI and Google Slides to complete this project. 
+This was my final project in the TripleTen Business Intelligence Analytics Program. We were given 3 types of analysis to conduct for Zomato: Customer Analysis Segmentation, Restaurant Analysis, and Sales Analysis. I utilized everything I've learned from my months of studying as a Business Analyst and was given freedom to explore the given data how I pleased. I chose to do a restaurant analysis utilizing Power BI to comb the data and chose to present with Google Slides. 
 
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Manhattan Vacation Rental Market Analysis](https://github.com/jethnacino/data_projects_TripleTen/blob/main/Manhattan%20Vacation%20Rental%20Market%20Analysis/Manhattan%20Vacation%20Rental%20Analysis.pdf) | Downloadable pdf file of the project |
-| 2 | [Project Rubric](https://github.com/jethnacino/data_projects_TripleTen/blob/main/Manhattan%20Vacation%20Rental%20Market%20Analysis/Project_Rubric.pdf) | A pdf of the project rubric |
-| 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 4 | [Requirements.txt](https://github.com/jethnacino/data_projects_TripleTen/blob/main/Manhattan%20Vacation%20Rental%20Market%20Analysis/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
-| 5 | [Review](https://github.com/jethnacino/data_projects_TripleTen/blob/main/Manhattan%20Vacation%20Rental%20Market%20Analysis/Review.PNG) | A .png file of the comment left by my project reviewer | 
+| 1 | [Zomato Analysis](https://github.com/jethnacino/data_projects_TripleTen/blob/main/Zomato%20Analysis/Zomato%20Analysis.pdf) | Downloadable pdf file of the project |
+| 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 3 | [Requirements.txt](https://github.com/jethnacino/data_projects_TripleTen/blob/main/Zomato%20Analysis/Review.PNG) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 4 | [Review](https://github.com/jethnacino/data_projects_TripleTen/blob/main/Zomato%20Analysis/Review.PNG) | A .png file of the comment left by my project reviewer | 
 
 ### Table of Contents for README
 | Section Title | Description |
@@ -18,51 +17,37 @@ This was my final project in the TripleTen Business Intelligence Analytics Progr
 | Description | Describes the final product's purpose, software, format, and included visuals. |
 | Process | Describes the process, including tools or tech used. |
 | Data | Describes the data source, including files, tables, and fields. |
-| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| Assumptions| Describes assumptions I had to take into account for analysis. | 
 | Findings | Insights learned from the data analysis. |
 | Recommendations | Recommended direction for the stakeholders based on final analysis. |
-| Notes | List any special requests from the reviews or stakeholders unique to this project. |
 
 #### Description:
-- 9 page spreadsheet
-- Includes organizational tabs, raw data, processed data, data analysis, pivot tables, and charts. 
+- 9 slides 
+- Includes an introduction, several slides of Power BI charts and information, and a conclusion 
 
 #### Process:
-**Data Preparation:** Filtering techniques identified and cleaned inconsistencies in the Airbnb data, hiding irrelevant columns for focused analysis. Key functions like PROPER, TRIM, IF, ISNUMBER, FIND, ROUND, SUMIF, VLOOKUP, CHOOSE, and WEEKDAY were used for data cleaning.
+**Data Preparation:** Choosing which of the given spreadsheets would be relevant to the chosen analysis. 
 
-**Neighborhood Analysis:** A Pivot Table identified top-performing neighborhoods based on review frequency.
-
-**Property Size Analysis:** Optimal property sizes for each neighborhood were determined using a Pivot Table with conditional formatting.
-
-**Revenue Analysis:** Estimated annual revenue for the most attractive listings was calculated.
-
-**Additional Optional Analysis:** Pivot Tables were used to analyze occupancy rates by day, pricing based on superhost status, check-in ratings with doormen, and pricing by review ratings.
+**KPI Selection:** Choosing which KPI's would be relevant to the analysis
 
 **Data Visualization:** Clear charts were created to present findings.
 
-**Formatting and Organization:** The analysis was formatted for readability.
-
-**Documentation:** Organizational sheets were created, including an executive summary, table of contents, assumptions log, and change log.
+**Formatting and Organization:** The analysis was formatted for readability in Google Slides.
 
 #### Data
-The data was provided by TripleTen on a Google spreadsheet file:
-- 'nyc_airbnb_data.csv': each row corresponds to one listing on Airbnb in September 2022
-- 'data_dictionary': summary of field titles and its data type
-- 'listings': unique listings
-- 'calender': listings with upcoming availabilities and data-type data
+The data was provided by TripleTen on Google spreadsheet files:
+- Restaurants.csv
+- Orders.csv
 
-#### Assumptions:
-- Airbnb rentals are equivalent to the general short-term vacation rental market
-- Focus on vacation rentals with a minimum stay of 7 days or fewer.
-- Exclude listings with no reviews in the past 12 months, assuming they are active.
-- Use the number of reviews in the last 12 months as an estimate of rental frequency.
-- Only include listings owned by superhosts with high review ratings.
-- Consider only listings with 10 or more reviews in the last 12 months.
-- Limit listings to those priced between $100 and $1000.
-
+#### Assumptions
+- Restaurants with an average rating of 4.5 or higher will be considered a high rating
+- Restaurants with 500 or more ratings will be considered popular
 
 #### Findings:
--The top 10 neighborhoods with the most reviews in the past year are Nolita, West Village, East Harlem, East Village, Chelsea, Upper West Side, Midtown, Harlem, Hell's Kitchen, and Lower East Side. The most popular vacation rental size is 2 bedrooms, with the highest occupancy rates on Fridays and Saturdays.
+- Popular restaurants are identified by: high amounts of ratings, high amounts of sales, high average ratings, is a popular cuisine, and is in a densely populated location
+- Indian and Chinese food are the most popular cuisines because asian cities are more densely populated
+- January, June, and November are the months with the lowest amount of sales for these cuisines
 
 #### Recommendations/Results:
-- I recommend investing in 2-bedroom listings in the Lower East Side, estimating an annual revenue of $151,803.88.
+- Focus on promoting Indian and Chinese cuisine restaurants during January, June, and November
+- Promote the top 3 target restaurants: Sandiwazzi, Udipi Shankar Bhavan, and C.I.A. Call It Asia
