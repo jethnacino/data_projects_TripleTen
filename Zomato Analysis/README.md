@@ -8,7 +8,7 @@ This was my final project in the TripleTen Business Intelligence Analytics Progr
 | :-----------: | ----------- |----------- |
 | 1 | [Zomato Analysis](https://github.com/jethnacino/data_projects_TripleTen/blob/main/Zomato%20Analysis/Zomato%20Analysis.pdf) | Downloadable pdf file of the project |
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 3 | [Requirements.txt](https://github.com/jethnacino/data_projects_TripleTen/blob/main/Zomato%20Analysis/Review.PNG) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 3 | [Requirements.txt](https://github.com/jethnacino/data_projects_TripleTen/blob/main/Zomato%20Analysis/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 | 4 | [Review](https://github.com/jethnacino/data_projects_TripleTen/blob/main/Zomato%20Analysis/Review.PNG) | A .png file of the comment left by my project reviewer | 
 
 ### Table of Contents for README
